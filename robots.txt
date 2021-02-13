@@ -1,0 +1,3 @@
+User-Agent: *
+Sitemap: https://cv-aboubakarahamada.netlify.app/sitemap.xml
+Allow: /*

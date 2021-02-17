@@ -10233,7 +10233,7 @@ footer span{
 }
 
 
-@media only screen and (max-width:768px){
+@media only screen and (max-width:600px){
   /** Si c'est un petit écran, affiche l'image en dessous du text (100% la largeur du view) */
   .grid-container {
     display: grid;
@@ -10260,4 +10260,12 @@ footer span{
   h3,.subheading{
     font-size: 1.6em;
   }
+}
+
+.carousel-indicators {
+  bottom: -25px;
+  margin:0;
+  position: absolute;
+  float: center;
+  
 }
